@@ -44,7 +44,7 @@ require_once __DIR__ . '/../config/database.php';
     <meta property="og:description"
         content="<?php echo isset($pageDescription) ? $pageDescription : 'Chennai\'s trusted home interior designers. Premium modular kitchen, wardrobe, living room designs & custom wooden works. 500+ homes, 5-year warranty.'; ?>">
     <meta property="og:image"
-        content="<?php echo isset($ogImage) ? $ogImage : SITE_URL . '/assets/images/og-image.jpg'; ?>">
+        content="<?php echo isset($ogImage) ? $ogImage : SITE_URL . '/assets/images/twittercard.png'; ?>">
     <meta property="og:site_name" content="<?php echo SITE_NAME; ?>">
     <meta property="og:locale" content="en_IN">
 
@@ -56,10 +56,10 @@ require_once __DIR__ . '/../config/database.php';
     <meta property="twitter:description"
         content="<?php echo isset($pageDescription) ? $pageDescription : 'Chennai\'s trusted home interior designers. Premium modular kitchen & wooden works.'; ?>">
     <meta property="twitter:image"
-        content="<?php echo isset($ogImage) ? $ogImage : SITE_URL . '/assets/images/og-image.jpg'; ?>">
+        content="<?php echo isset($ogImage) ? $ogImage : SITE_URL . '/assets/images/twittercard.png'; ?>">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="<?php echo baseUrl('assets/images/favicon.ico'); ?>">
+    <link rel="icon" type="image/png" href="<?php echo baseUrl('assets/images/favicon.png'); ?>">
     <link rel="apple-touch-icon" href="<?php echo baseUrl('assets/images/apple-touch-icon.png'); ?>">
 
     <!-- Google Fonts -->
