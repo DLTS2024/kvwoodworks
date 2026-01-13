@@ -307,14 +307,14 @@ if (function_exists('show_banner')) {
 
 <script>
     // Toggle Designs dropdown
-    document.getElementById('designsNav').addEventListener('cl ick', function (e) {
+    document.getElementById('designsNav').addEventListener('click', function (e) {
         e.stopPropagation();
         const dropdown = document.getElementById('designsDropdown');
         dropdown.classList.toggle('show');
     });
 
     // Close dropdown when clicking outside
-    document.addEventListener('c lick', function (e) {
+    document.addEventListener('click', function (e) {
         const dropdown = document.getElementById('designsDropdown');
         if (!e.target.closest('#designsNav')) {
             dropdown.classList.remove('show');
