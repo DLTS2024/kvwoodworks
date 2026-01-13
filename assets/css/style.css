@@ -503,7 +503,7 @@ p {
     letter-spacing: 1px;
     margin-bottom: 15px;
     padding-bottom: 10px;
-    border-bottom: 2px solid var(--light-gray);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
 }
 
 .mega-col ul li a {
@@ -1768,9 +1768,9 @@ select.form-control {
     visibility: visible;
     transform: none;
     box-shadow: none;
-    padding: 0 0 0 15px;
+    padding: 0;
     display: none;
-    background: var(--light-gray);
+    background: #f9f9f9;
     border-radius: 0;
 }
 
