@@ -1764,6 +1764,12 @@ select.form-control {
     }
 }
 
+@media (max-width: 1200px) {
+    .desktop-only-menu {
+        display: none !important;
+    }
+}
+
 .mega-dropdown,
 .dropdown {
     position: static;
