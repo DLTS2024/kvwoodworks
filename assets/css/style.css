@@ -1711,6 +1711,27 @@ select.form-control {
 /* =============================================
    MOBILE NAVIGATION (Slide-in Menu)
 ============================================= */
+/* Mobile Navigation Overlay */
+.mobile-nav-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1999;
+    /* Increased from 999 */
+}
+
+/* Mobile Menu Toggle */
+.mobile-menu-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+    z-index: 2001;
+    /* Increased from 1001 */
+}
+
+/* Mobile Menu Container */
 @media (max-width: 992px) {
     .nav-menu {
         display: flex;
@@ -1725,7 +1746,8 @@ select.form-control {
         box-shadow: var(--shadow-xl);
         transition: var(--transition-normal);
         overflow-y: auto;
-        z-index: 1000;
+        z-index: 2000;
+        /* Increased from 1000 */
     }
 
     .nav-menu.active {
@@ -1736,37 +1758,38 @@ select.form-control {
         padding: 15px;
         border-bottom: 1px solid var(--light-gray);
     }
+}
 
-    .mega-dropdown,
-    .dropdown {
-        position: static;
-        width: 100%;
-        opacity: 1;
-        visibility: visible;
-        transform: none;
-        box-shadow: none;
-        padding: 0 0 0 15px;
-        display: none;
-        background: var(--light-gray);
-        border-radius: 0;
-    }
+.mega-dropdown,
+.dropdown {
+    position: static;
+    width: 100%;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    box-shadow: none;
+    padding: 0 0 0 15px;
+    display: none;
+    background: var(--light-gray);
+    border-radius: 0;
+}
 
-    .has-dropdown.active .mega-dropdown,
-    .has-dropdown.active .dropdown {
-        display: block;
-    }
+.has-dropdown.active .mega-dropdown,
+.has-dropdown.active .dropdown {
+    display: block;
+}
 
-    .mega-dropdown-inner {
-        grid-template-columns: 1fr;
-        gap: 15px;
-        padding: 15px;
-    }
+.mega-dropdown-inner {
+    grid-template-columns: 1fr;
+    gap: 15px;
+    padding: 15px;
+}
 
-    .nav-cta {
-        display: block;
-        margin-top: 20px;
-        text-align: center;
-    }
+.nav-cta {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+}
 }
 
 /* =============================================
