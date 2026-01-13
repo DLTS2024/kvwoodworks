@@ -30,7 +30,7 @@ if ($isLocalhost) {
 
 // Site Configuration (same for both environments)
 define('SITE_NAME', 'KV Wood Works');
-define('SITE_EMAIL', 'kvwoodworks@gmail.com');
+define('SITE_EMAIL', 'contact@kvwoodworks.in');
 define('SITE_PHONE', '+91 98849 72483');
 define('SITE_WHATSAPP', '919884972483');
 define('SITE_ADDRESS', '25, 10th, 3rd Cross St, Gangaiamman Nagar, Maduravoyal, Chennai, Tamil Nadu 600095');
