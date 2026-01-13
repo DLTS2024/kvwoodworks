@@ -1,0 +1,46 @@
+{
+    "brands": [
+        {
+            "id": "hettich",
+            "name": "HETTICH",
+            "description": "Hardware Solutions",
+            "image": "",
+            "enabled": true
+        },
+        {
+            "id": "hafele",
+            "name": "HAFELE",
+            "description": "Fittings & Fixtures",
+            "image": "",
+            "enabled": true
+        },
+        {
+            "id": "century",
+            "name": "CENTURY",
+            "description": "Plywood & Laminates",
+            "image": "",
+            "enabled": true
+        },
+        {
+            "id": "rehau",
+            "name": "REHAU",
+            "description": "Edge Bands",
+            "image": "",
+            "enabled": true
+        },
+        {
+            "id": "faber",
+            "name": "FABER",
+            "description": "Kitchen Chimneys",
+            "image": "",
+            "enabled": true
+        },
+        {
+            "id": "greenply",
+            "name": "GREENPLY",
+            "description": "Quality Plywood",
+            "image": "",
+            "enabled": true
+        }
+    ]
+}

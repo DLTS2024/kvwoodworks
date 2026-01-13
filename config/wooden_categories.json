@@ -1,0 +1,207 @@
+{
+    "categories": {
+        "vasakal": {
+            "name": "Vasakal Frame",
+            "slug": "vasakal",
+            "icon": "door-open",
+            "description": "Premium wooden vasakal frames for every room",
+            "subcategories": {
+                "main-vasakal": {
+                    "name": "Main Vasakal",
+                    "slug": "main-vasakal",
+                    "icon": "door-open",
+                    "description": "Traditional main entrance vasakal frames crafted with premium teak and sal wood"
+                },
+                "pooja-room-vasakal": {
+                    "name": "Pooja Room Vasakal",
+                    "slug": "pooja-room-vasakal",
+                    "icon": "pray",
+                    "description": "Sacred pooja room vasakal with intricate traditional carvings"
+                },
+                "bedroom-vasakal": {
+                    "name": "Bedroom Vasakal",
+                    "slug": "bedroom-vasakal",
+                    "icon": "bed",
+                    "description": "Elegant bedroom vasakal frames with modern and traditional designs"
+                },
+                "wpvc-bathroom-vasakal": {
+                    "name": "WPVC Bathroom Vasakal",
+                    "slug": "wpvc-bathroom-vasakal",
+                    "icon": "bath",
+                    "description": "Waterproof WPVC vasakal frames for bathroom durability"
+                },
+                "wpvc-balcony-vasakal": {
+                    "name": "WPVC Balcony Vasakal",
+                    "slug": "wpvc-balcony-vasakal",
+                    "icon": "building",
+                    "description": "Weather-resistant WPVC vasakal for balcony areas"
+                },
+                "french-window-vasakal": {
+                    "name": "French Window Vasakal",
+                    "slug": "french-window-vasakal",
+                    "icon": "window-maximize",
+                    "description": "Stylish French window vasakal frames for modern homes"
+                }
+            }
+        },
+        "doors": {
+            "name": "Doors",
+            "slug": "doors",
+            "icon": "door-closed",
+            "description": "Handcrafted wooden doors for every purpose",
+            "subcategories": {
+                "main-door": {
+                    "name": "Main Door",
+                    "slug": "main-door",
+                    "icon": "door-open",
+                    "description": "Grand main entrance doors with traditional and modern designs"
+                },
+                "main-door-safety": {
+                    "name": "Main Door with Safety Door",
+                    "slug": "main-door-safety",
+                    "icon": "shield-alt",
+                    "description": "Secure main doors with integrated safety door combination"
+                },
+                "pooja-room-door": {
+                    "name": "Pooja Room Door",
+                    "slug": "pooja-room-door",
+                    "icon": "pray",
+                    "description": "Sacred pooja room doors with traditional temple designs"
+                },
+                "bedroom-door": {
+                    "name": "Bedroom Door",
+                    "slug": "bedroom-door",
+                    "icon": "bed",
+                    "description": "Elegant bedroom doors for privacy and style"
+                },
+                "wpvc-bathroom-door": {
+                    "name": "WPVC Bathroom Door",
+                    "slug": "wpvc-bathroom-door",
+                    "icon": "bath",
+                    "description": "Waterproof WPVC doors for bathroom durability"
+                },
+                "pvc-bathroom-door": {
+                    "name": "PVC Bathroom Door",
+                    "slug": "pvc-bathroom-door",
+                    "icon": "bath",
+                    "description": "Affordable PVC doors for bathroom applications"
+                },
+                "balcony-door": {
+                    "name": "Balcony Door",
+                    "slug": "balcony-door",
+                    "icon": "building",
+                    "description": "Weather-resistant balcony doors with glass panels"
+                },
+                "french-window-door": {
+                    "name": "French Window Door",
+                    "slug": "french-window-door",
+                    "icon": "window-maximize",
+                    "description": "Elegant French-style doors with large glass panels"
+                },
+                "double-door": {
+                    "name": "Double Door",
+                    "slug": "double-door",
+                    "icon": "columns",
+                    "description": "Grand double doors for main entrance or bedroom"
+                }
+            }
+        },
+        "windows": {
+            "name": "Windows",
+            "slug": "windows",
+            "icon": "window-maximize",
+            "description": "Beautiful wooden windows for natural light and ventilation",
+            "subcategories": {
+                "window": {
+                    "name": "Window",
+                    "slug": "window",
+                    "icon": "window-maximize",
+                    "description": "Classic wooden windows with traditional and modern designs"
+                },
+                "double-door-window": {
+                    "name": "Double Door Window",
+                    "slug": "double-door-window",
+                    "icon": "columns",
+                    "description": "Large double-door windows for panoramic views"
+                }
+            }
+        },
+        "ottu-sakkai": {
+            "name": "Vasakal Ottu Sakkai",
+            "slug": "ottu-sakkai",
+            "icon": "palette",
+            "description": "Traditional Ottu Sakkai decorative elements for vasakal frames",
+            "subcategories": {}
+        },
+        "staircase": {
+            "name": "Staircase",
+            "slug": "staircase",
+            "icon": "stairs",
+            "description": "Premium wooden staircases for homes and villas",
+            "subcategories": {
+                "round-staircase": {
+                    "name": "Wooden Round Staircase",
+                    "slug": "round-staircase",
+                    "icon": "sync",
+                    "description": "Elegant spiral and round staircases for compact spaces"
+                },
+                "straight-staircase": {
+                    "name": "Wooden Straight Staircase",
+                    "slug": "straight-staircase",
+                    "icon": "arrow-up",
+                    "description": "Classic straight staircases with premium wood finish"
+                }
+            }
+        },
+        "furniture": {
+            "name": "Furniture",
+            "slug": "furniture",
+            "icon": "couch",
+            "description": "Handcrafted wooden furniture for every room",
+            "subcategories": {
+                "sofa-set": {
+                    "name": "Sofa Set",
+                    "slug": "sofa-set",
+                    "icon": "couch",
+                    "description": "Premium wooden sofa sets with comfortable cushioning"
+                },
+                "diwan": {
+                    "name": "Diwan",
+                    "slug": "diwan",
+                    "icon": "bed",
+                    "description": "Traditional diwan cots with storage options"
+                },
+                "kattil-bed": {
+                    "name": "Kattil (Bed)",
+                    "slug": "kattil-bed",
+                    "icon": "bed",
+                    "description": "Traditional kattil wooden beds with elegant carvings"
+                },
+                "dining-table": {
+                    "name": "Dining Table with Chairs",
+                    "slug": "dining-table",
+                    "icon": "utensils",
+                    "description": "Complete dining sets with table and matching chairs"
+                },
+                "chair": {
+                    "name": "Chair",
+                    "slug": "chair",
+                    "icon": "chair",
+                    "description": "Handcrafted wooden chairs for various purposes"
+                },
+                "wardrobe": {
+                    "name": "Bero / Wardrobe",
+                    "slug": "wardrobe",
+                    "icon": "archive",
+                    "description": "Spacious wooden wardrobes with modern features"
+                },
+                "pooja-mandapam": {
+                    "name": "Pooja Mandapam",
+                    "slug": "pooja-mandapam",
+                    "icon": "pray",
+                    "description": "Sacred pooja mandapam with traditional temple architecture"
+                }
+            }
+        }
+    }
+}

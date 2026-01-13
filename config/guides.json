@@ -1,0 +1,383 @@
+{
+    "categories": [
+        {
+            "id": "kitchen",
+            "name": "Modular Kitchen",
+            "icon": "utensils",
+            "group": "Interior Design"
+        },
+        {
+            "id": "customize-kitchen",
+            "name": "Customize Your Kitchen",
+            "icon": "magic",
+            "group": "Interior Design"
+        },
+        {
+            "id": "wardrobe",
+            "name": "Wardrobe Designs",
+            "icon": "door-closed",
+            "group": "Interior Design"
+        },
+        {
+            "id": "bedroom",
+            "name": "Bedroom",
+            "icon": "bed",
+            "group": "Interior Design"
+        },
+        {
+            "id": "living",
+            "name": "Living Room",
+            "icon": "couch",
+            "group": "Interior Design"
+        },
+        {
+            "id": "kids",
+            "name": "Kid Bedroom",
+            "icon": "child",
+            "group": "Interior Design"
+        },
+        {
+            "id": "dining",
+            "name": "Dining Room",
+            "icon": "chair",
+            "group": "Interior Design"
+        },
+        {
+            "id": "pooja",
+            "name": "Pooja Room",
+            "icon": "praying-hands",
+            "group": "Interior Design"
+        },
+        {
+            "id": "home-office",
+            "name": "Home Office",
+            "icon": "laptop-house",
+            "group": "Interior Design"
+        },
+        {
+            "id": "bathroom",
+            "name": "Bathroom",
+            "icon": "bath",
+            "group": "Interior Design"
+        },
+        {
+            "id": "balcony",
+            "name": "Balcony",
+            "icon": "sun",
+            "group": "Interior Design"
+        },
+        {
+            "id": "space-saving",
+            "name": "Space Saving",
+            "icon": "compress-arrows-alt",
+            "group": "Interior Design"
+        },
+        {
+            "id": "main-vasakal",
+            "name": "Main Vasakal",
+            "icon": "door-open",
+            "group": "Vasakal Frame"
+        },
+        {
+            "id": "pooja-vasakal",
+            "name": "Pooja Room Vasakal",
+            "icon": "pray",
+            "group": "Vasakal Frame"
+        },
+        {
+            "id": "bedroom-vasakal",
+            "name": "Bedroom Vasakal",
+            "icon": "bed",
+            "group": "Vasakal Frame"
+        },
+        {
+            "id": "wpvc-bathroom-vasakal",
+            "name": "WPVC Bathroom Vasakal",
+            "icon": "bath",
+            "group": "Vasakal Frame"
+        },
+        {
+            "id": "wpvc-balcony-vasakal",
+            "name": "WPVC Balcony Vasakal",
+            "icon": "building",
+            "group": "Vasakal Frame"
+        },
+        {
+            "id": "french-window-vasakal",
+            "name": "French Window Vasakal",
+            "icon": "window-maximize",
+            "group": "Vasakal Frame"
+        },
+        {
+            "id": "main-door",
+            "name": "Main Door",
+            "icon": "door-open",
+            "group": "Doors"
+        },
+        {
+            "id": "main-door-safety",
+            "name": "Main Door + Safety Door",
+            "icon": "shield-alt",
+            "group": "Doors"
+        },
+        {
+            "id": "pooja-door",
+            "name": "Pooja Room Door",
+            "icon": "pray",
+            "group": "Doors"
+        },
+        {
+            "id": "bedroom-door",
+            "name": "Bedroom Door",
+            "icon": "bed",
+            "group": "Doors"
+        },
+        {
+            "id": "wpvc-bathroom-door",
+            "name": "WPVC Bathroom Door",
+            "icon": "bath",
+            "group": "Doors"
+        },
+        {
+            "id": "pvc-bathroom-door",
+            "name": "PVC Bathroom Door",
+            "icon": "bath",
+            "group": "Doors"
+        },
+        {
+            "id": "balcony-door",
+            "name": "Balcony Door",
+            "icon": "building",
+            "group": "Doors"
+        },
+        {
+            "id": "french-window-door",
+            "name": "French Window Door",
+            "icon": "window-maximize",
+            "group": "Doors"
+        },
+        {
+            "id": "double-door",
+            "name": "Double Door",
+            "icon": "columns",
+            "group": "Doors"
+        },
+        {
+            "id": "window",
+            "name": "Window",
+            "icon": "window-maximize",
+            "group": "Windows"
+        },
+        {
+            "id": "double-door-window",
+            "name": "Double Door Window",
+            "icon": "columns",
+            "group": "Windows"
+        },
+        {
+            "id": "vasakal-ottu-sakkai",
+            "name": "Vasakal Ottu Sakkai",
+            "icon": "palette",
+            "group": "Windows"
+        },
+        {
+            "id": "round-staircase",
+            "name": "Wooden Round Staircase",
+            "icon": "sync",
+            "group": "Staircase"
+        },
+        {
+            "id": "straight-staircase",
+            "name": "Wooden Straight Staircase",
+            "icon": "arrow-up",
+            "group": "Staircase"
+        },
+        {
+            "id": "sofa-set",
+            "name": "Sofa Set",
+            "icon": "couch",
+            "group": "Furniture"
+        },
+        {
+            "id": "diwan",
+            "name": "Diwan",
+            "icon": "bed",
+            "group": "Furniture"
+        },
+        {
+            "id": "kattil-bed",
+            "name": "Kattil (Bed)",
+            "icon": "bed",
+            "group": "Furniture"
+        },
+        {
+            "id": "dining-table",
+            "name": "Dining Table with Chairs",
+            "icon": "utensils",
+            "group": "Furniture"
+        },
+        {
+            "id": "chair",
+            "name": "Chair",
+            "icon": "chair",
+            "group": "Furniture"
+        },
+        {
+            "id": "bero-wardrobe",
+            "name": "Bero / Wardrobe",
+            "icon": "archive",
+            "group": "Furniture"
+        },
+        {
+            "id": "pooja-mandapam",
+            "name": "Pooja Mandapam",
+            "icon": "pray",
+            "group": "Furniture"
+        }
+    ],
+    "guides": [
+        {
+            "id": "kids-room-colours",
+            "title": "A Guide To Kids Room Colour Combinations",
+            "slug": "kids-room-colours",
+            "category": "kids",
+            "description": "Best colour combinations for kids bedrooms - Cerulean Blue, Yellow & Magenta, Pink & Chocolate, and more.",
+            "read_time": "8 min",
+            "featured": true,
+            "enabled": true,
+            "updated": "2026-01-10",
+            "sections": [
+                {
+                    "title": "Cerulean Blue And White",
+                    "colors": [
+                        "#007BA7",
+                        "#FFFFFF"
+                    ],
+                    "content": "Baby blue is one of the most popular choices for a nursery. If you have a grown-up boy or a girl who loves the idea of a blue bedroom, opt for a darker, more vibrant shade of blue. Trust us, your kid will love the bedroom!\n\nThe main wall in cerulean blue paired with hints of white on the walls, wardrobes and study unit makes the bedroom both fun and trendy. This combination works great for both boys and girls.",
+                    "tip": ""
+                },
+                {
+                    "title": "Yellow And Magenta",
+                    "colors": [
+                        "#FFD700",
+                        "#FF00FF"
+                    ],
+                    "content": "Yellow colour paint is an excellent choice for a kids bedroom. This colour combination keeps spaces energised and lively. A bright yellow colour will keep your child focused on studying while magenta adds a whole lot of fun!\n\nIt is also an excellent choice for a girls bedroom. The vibrant combination stimulates creativity and keeps the room feeling cheerful throughout the day.",
+                    "tip": ""
+                },
+                {
+                    "title": "Beige And Dark Grey",
+                    "colors": [
+                        "#F5F5DC",
+                        "#444444"
+                    ],
+                    "content": "A colour that will see your kids through the years is beige. Quite a classic, it can be used as a base giving you lots of room, literally, to play around with decor and loose furniture that can be changed frequently as your kids start exploring different facets of their taste.\n\nIn this fun bedroom setup, the classic beige colour is paired with grey with hints of white that balance the bedroom together. Perfect for pre-teens and teenagers!",
+                    "tip": "Beige and grey are neutral colours that grow with your child. You can easily update the room's look by just changing bedding, curtains, and decor items without repainting."
+                },
+                {
+                    "title": "Shades Of Blue And Light Orange",
+                    "colors": [
+                        "#4169E1",
+                        "#87CEEB",
+                        "#FFB347"
+                    ],
+                    "content": "Blue is the first choice when it comes to boys' bedrooms, but when it's paired with a bright colour like orange, it becomes a great pick for girls too. Shades of blue and orange make the bedroom more fun.\n\nThese beautiful hues of blue make the kids bedroom look bright and happy. The orange accents add warmth and energy to the cool blue tones.",
+                    "tip": ""
+                },
+                {
+                    "title": "Lilac Purple And White",
+                    "colors": [
+                        "#C8A2C8",
+                        "#FFFFFF"
+                    ],
+                    "content": "When your kids are done playing with their toys, the colour lilac that is light on the eyes is sophisticated and soothing. This colour combination will last at least until your kids pass junior high school.\n\nThe inclusion of white on the walls and ottomans makes everything right. Lilac creates a dreamy, calming atmosphere perfect for restful sleep.",
+                    "tip": ""
+                },
+                {
+                    "title": "Chalkboard Wall And White",
+                    "colors": [
+                        "#2F4F4F",
+                        "#FFFFFF"
+                    ],
+                    "content": "We know what kids love to do in their free time. Yes, you guessed right – doodling on walls! Why beat it, instead embrace it? Add a chalkboard wall so they can scribble whatever they want.\n\nThe chalkboard can be a part of the main wall with the rest of the surface area in white. The chalkboard becomes the main decor element of the space as well, and it's practical too!",
+                    "tip": "Use chalkboard paint on one accent wall or on the lower half of a wall at kid-friendly height. You can also use magnetic chalkboard paint to display artwork and notes."
+                },
+                {
+                    "title": "Fuschia And Teal",
+                    "colors": [
+                        "#FF00FF",
+                        "#008080"
+                    ],
+                    "content": "If your kid wants a pink bedroom, opt for a more pop and lasting shade, like fuchsia. This bright shade of pink with a hint of teal and white walls keeps it balanced.\n\nA kids bedroom designed with a duo of fuschia and teal is fun and modern. The bold combination makes a statement while still being age-appropriate.",
+                    "tip": ""
+                },
+                {
+                    "title": "Light Pink And Chocolate",
+                    "colors": [
+                        "#FFB6C1",
+                        "#7B3F00"
+                    ],
+                    "content": "Well, it's called a classic colour for a reason. Kids love pink. It's pretty, it's fun and timeless. In this bedroom, two of kids' favourite things are brought to life – pink and chocolate!\n\nSince all the pieces of furniture and cabinetry are in shades of brown, it leaves less room for smudged fingerprints. Practical and beautiful!",
+                    "tip": ""
+                },
+                {
+                    "title": "Bright Purple And Yellow",
+                    "colors": [
+                        "#8A2BE2",
+                        "#FFD700"
+                    ],
+                    "content": "Purple and yellow are complementary colours that create a vibrant, energetic atmosphere. This bold combination is perfect for creative kids who love standing out.\n\nUse purple as the dominant colour on walls or furniture, with yellow accents in bedding, curtains, or decor items. The result is a room that sparks imagination and joy!",
+                    "tip": ""
+                }
+            ]
+        },
+        {
+            "id": "kitchen-storage",
+            "title": "How to Maximize Storage Space in Your Modular Kitchen",
+            "slug": "kitchen-storage-ideas",
+            "category": "kitchen",
+            "description": "Smart storage solutions to make the most of every inch in your kitchen. Corner units, pull-outs, and more.",
+            "read_time": "6 min",
+            "featured": true,
+            "enabled": true,
+            "updated": "2026-01-10",
+            "sections": []
+        },
+        {
+            "id": "kitchen-layouts",
+            "title": "A Complete Guide to Kitchen Layout Types",
+            "slug": "kitchen-layouts",
+            "category": "kitchen",
+            "description": "L-shaped, U-shaped, parallel, island - which kitchen layout is right for your space?",
+            "read_time": "7 min",
+            "featured": true,
+            "enabled": true,
+            "updated": "2026-01-10",
+            "sections": []
+        },
+        {
+            "id": "bedroom-wardrobe",
+            "title": "Ultimate Guide to Wardrobe Designs",
+            "slug": "wardrobe-design-guide",
+            "category": "bedroom",
+            "description": "Sliding, hinged, walk-in wardrobes - choose the perfect storage solution for your bedroom.",
+            "read_time": "8 min",
+            "featured": true,
+            "enabled": true,
+            "updated": "2026-01-10",
+            "sections": []
+        },
+        {
+            "id": "vasakal-designs",
+            "title": "Traditional Vasakal Design Guide",
+            "slug": "vasakal-designs",
+            "category": "wooden",
+            "description": "Everything about traditional main door frames - materials, carvings, and modern adaptations.",
+            "read_time": "10 min",
+            "featured": true,
+            "enabled": true,
+            "updated": "2026-01-10",
+            "sections": []
+        }
+    ]
+}

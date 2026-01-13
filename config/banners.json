@@ -1,0 +1,27 @@
+{
+    "header_banner": {
+        "enabled": true,
+        "image": "",
+        "link": "get-estimate.php",
+        "alt_text": "Special Offer",
+        "background_color": "#1a1a1a"
+    },
+    "middle_banner": {
+        "enabled": true,
+        "image": "",
+        "link": "get-estimate.php",
+        "alt_text": "Limited Time Offer",
+        "title": "New Year Special Offer!",
+        "subtitle": "FLAT 25% OFF",
+        "description": "On Modular Interiors",
+        "button_text": "Book Free Consultation",
+        "valid_until": "31st January, 2026"
+    },
+    "footer_banner": {
+        "enabled": true,
+        "image": "",
+        "link": "get-estimate.php",
+        "alt_text": "Exclusive Offer"
+    },
+    "updated_at": ""
+}
