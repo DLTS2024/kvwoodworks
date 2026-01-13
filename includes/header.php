@@ -144,7 +144,7 @@ require_once __DIR__ . '/../config/database.php';
                 <ul class="nav-menu" id="navMenu">
                     <li><a href="<?php echo baseUrl(); ?>">Home</a></li>
 
-                    <li class="has-dropdown">
+                    <li class="has-dropdown desktop-only-menu">
                         <a href="<?php echo baseUrl('home-interior-designs.php'); ?>">Home Interior Designs <i
                                 class="fas fa-chevron-down"></i></a>
                         <div class="mega-dropdown">
@@ -206,7 +206,7 @@ require_once __DIR__ . '/../config/database.php';
                         </div>
                     </li>
 
-                    <li class="has-dropdown">
+                    <li class="has-dropdown desktop-only-menu">
                         <a href="<?php echo baseUrl('wooden-works.php'); ?>">Wooden Works <i
                                 class="fas fa-chevron-down"></i></a>
                         <div class="mega-dropdown">

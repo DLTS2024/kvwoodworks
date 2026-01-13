@@ -1754,6 +1754,10 @@ select.form-control {
         right: 0;
     }
 
+    .desktop-only-menu {
+        display: none !important;
+    }
+
     .nav-menu>li>a {
         padding: 15px;
         border-bottom: 1px solid var(--light-gray);
